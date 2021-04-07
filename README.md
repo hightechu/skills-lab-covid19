@@ -21,3 +21,9 @@ We start the workshop with the ```Variants.ipynb``` notebook, where we introduce
 We follow up this up with the ```Vaccines.ipynb``` notebook. Here we talk in depth about each of the most popular COVID-19 vaccines to date and how you can find scientific articles of them. We also introduce the vaccine types so that you can learn how each vaccine works. The main goal of this notebook is to learn about the vaccine efficacy and how to obtain the publically available data from the vaccine's clinical trials, to educate yourself in how safe and reliable the vaccines really are.
 
 We end the workshop with the ```Spread.ipynb``` notebook. Here you can explore the pandemic using a simple epidemiological model, where you can see the effects of the virus spreading throughout the population and how different variables of the virus might affect its spread. We also added how a vaccine might help in lowering the spread of the virus.
+
+### Troubleshoot
+
+In case the notebooks are not working as expected, please use the following option in the notebook menu:
+
+```Kernel -> Restart & Run All```
